@@ -4,6 +4,7 @@ date: 2020-09-03
 published: true
 tags: ["Git", "Version Control"]
 series: false
+cover_image: ./images/git.png
 canonical_url: false
 description: "I have mentioned a few times that I have been helping a few people try and break into the industry. The main theme I have noticed is that many people work super hard for a while, but then once I suggest they should start looking for opportunities they slow right down or stop."
 ---
