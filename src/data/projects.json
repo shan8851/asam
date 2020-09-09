@@ -1,0 +1,34 @@
+[
+  {
+    "id": 0,
+    "title": "NodeJS Weather App",
+    "description": "Express server to get weather forecast based on location, deployed using Heroku",
+    "tech": ["node", "heroku", "express"],
+    "repo": "https://github.com/shan5742/express-weather-app",
+    "demo": "https://shan-express-weather-app.herokuapp.com/"
+  },
+  {
+    "id": 1,
+    "title": "Bookmarks",
+    "description": "Simple React application for keeping track of bookmarks. Authentication is provided by firebase. App also uses firestore to store and modify data. Routing is handled by Reach Router",
+    "tech": ["Gatsby", "React", "express"],
+    "repo": "https://github.com/shan5742/bookmarks",
+    "demo": "https://shan-bookmarks.netlify.app"
+  },
+  {
+    "id": 2,
+    "title": "Nodes App",
+    "description": "Basic nodejs app for taking notes. Using Yargs for our command line arguments and chalk for displaying useful information to the user.",
+    "tech": ["Node", "CLI", "Yargs"],
+    "repo": "https://github.com/shan5742/nodes-app",
+    "demo": "https://github.com/shan5742/nodes-app"
+  },
+  {
+    "id": 3,
+    "title": "RPSLS",
+    "description": "Rock Paper Scissors game built with vanilla JS, but modified to include Lizard and Spock to make the game more complex and fun..",
+    "tech": ["JS", "CSS"],
+    "repo": "https://github.com/shan5742/rpsls",
+    "demo": "https://shan5742.github.io/rpsls/"
+  }
+]
