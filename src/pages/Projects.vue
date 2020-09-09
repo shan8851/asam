@@ -29,7 +29,7 @@
 import data from "../data/projects.json";
 export default {
   metaInfo: {
-    title: "Hello, world!",
+    title: "Projects Page",
   },
   data() {
     return {

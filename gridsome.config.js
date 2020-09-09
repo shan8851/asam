@@ -13,7 +13,7 @@ module.exports = {
     Post: "/:title",
     Tag: "/tag/:id",
   },
-
+  icon: "./src/assets/images/headshot.jpg",
   plugins: [
     {
       // Create posts from markdown files
