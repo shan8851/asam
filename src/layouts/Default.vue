@@ -19,7 +19,8 @@
         >Copyright © {{ new Date().getFullYear() }}.
       </span>
       <span class="footer__links"
-        >Powered by <a href="//gridsome.org"> Gridsome </a></span
+        >Made with ❤️ by Asam Shan &
+        <a href="//gridsome.org"> Gridsome </a></span
       >
     </footer>
   </div>
