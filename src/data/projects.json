@@ -13,7 +13,7 @@
     "description": "Simple React application for keeping track of bookmarks. Authentication is provided by firebase. App also uses firestore to store and modify data. Routing is handled by Reach Router",
     "tech": ["Gatsby", "React", "express"],
     "repo": "https://github.com/shan5742/bookmarks",
-    "demo": "https://shan-bookmarks.netlify.app"
+    "demo": "https://bookmarks.asamshan.dev"
   },
   {
     "id": 2,
