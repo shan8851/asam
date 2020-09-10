@@ -20,7 +20,7 @@ Being aware of this is the first step toward change, which I definitely am at ri
 
 ### Challenging
 
-Now, I'm a little out of shape, so I am a little nervous about the Yoga, but I have got a nice beginner friendly workout and am using Headspace to assist with meditation, so hopefully I can make this a habbit ASAP. I have used similar strategies with programming and it has worked, for two months now I have done some studying almost daily, so it is definitely a habit now and hopefully I can replicate those results with regard to mindfulness.
+Now, I'm a little out of shape, so I am a little nervous about the Yoga, but I have got a nice beginner friendly workout and am using Headspace to assist with meditation, so hopefully I can make this a habit ASAP. I have used similar strategies with programming and it has worked, for two months now I have done some studying almost daily, so it is definitely a habit now and hopefully I can replicate those results with regard to mindfulness.
 
 #### Resources
 

@@ -19,7 +19,7 @@ The negatives of that are pretty obvious, but what I didn’t realise was that I
 
 ## Balance
 
-Now, don’t get me wrong, I am not here to discourage people from picking up new skills, that would be absurd. As I said at the beginning of this post, to be constantly learning and picking up new skills is a good thing - **great** in fact, but it is important to be aware of the opportunity cost and make sure you keep some balance. Make time for you, you deserve it. Make time to enhance your skills that you use in the day job, those afterall are your bread and butter.
+Now, don’t get me wrong, I am not here to discourage people from picking up new skills, that would be absurd. As I said at the beginning of this post, to be constantly learning and picking up new skills is a good thing - **great** in fact, but it is important to be aware of the opportunity cost and make sure you keep some balance. Make time for you, you deserve it. Make time to enhance your skills that you use in the day job, those after all are your bread and butter.
 
 ## Righting the Ship
 

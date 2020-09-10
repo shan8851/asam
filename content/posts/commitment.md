@@ -38,6 +38,6 @@ Stay away from the **‘I haven’t got time’** excuse.
 
 Basically, find out whatever works for you in terms of staying on track and do them. Get into the mindset of once something is in your plan you just have to do it, don’t start finding time to do it, just do it like you do with brushing your teeth, showering, feeding yourself etc.
 
-I know I said it will take hundreads of hours, which is a lot different from brushing your teeth, but the point remains the same, tailor your plan based on your lifestyle, break it down and then just do it, no excuses.
+I know I said it will take hundreds of hours, which is a lot different from brushing your teeth, but the point remains the same, tailor your plan based on your lifestyle, break it down and then just do it, no excuses.
 
 Good luck.

@@ -36,7 +36,7 @@ As the years went by, life kinda got in the way and all my training just fell aw
 
 ## Reading - HUGE FAIL
 
-Another of those every year goals for me is to read more. I labeled this a **huge fail** which I guess is somewhat misleading. I have read a lot this year, a lot of articles, blog posts and tutorials, but almost all of them are exclusively work related, which has definitely been interesting and benefitted my career. However, when I set this goal for myself I'm more meaning books, things that will expand my mind, get me to think about things differently and what not.
+Another of those every year goals for me is to read more. I labelled this a **huge fail** which I guess is somewhat misleading. I have read a lot this year, a lot of articles, blog posts and tutorials, but almost all of them are exclusively work related, which has definitely been interesting and benefited my career. However, when I set this goal for myself I'm more meaning books, things that will expand my mind, get me to think about things differently and what not.
 
 I think I read 2 books in 2019 - if that... The bizarre thing is, I actually love reading once I get started. Again I have some thoughts on how to change this for 2020.
 

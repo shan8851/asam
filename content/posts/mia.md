@@ -22,7 +22,7 @@ The reason I have been inactive on the blog, Twitter and every other aspect of m
 
 ## Details
 
-I have been communicating with a local developer on Linedin for months, he has been a great help for me in terms of advising me what to learn, analysing the local market etc.
+I have been communicating with a local developer on Linkedin for months, he has been a great help for me in terms of advising me what to learn, analysing the local market etc.
 
 He hit me up a couple of weeks ago letting me know that his company were planning on recruiting Software Engineers and Associate Software Engineers, he informed me he was happy to refer me for the latter position, which is aimed at new developers with little to no professional experience (that's me 😃). The aim would be to rotate the associates into their regular development roles as and when their skill level dictates.
 

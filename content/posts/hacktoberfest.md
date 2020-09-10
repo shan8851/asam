@@ -26,9 +26,9 @@ As some of you may know, Hacktoberfest is a month-long celebration of open-sourc
 
 This is definitely something I plan on doing and I urge all of you to do the same. Contributing to open source is great for so many reasons. Employers love it, it is good to get used to working with Git and who doesn't love FREE swag?
 
-### The BEST Decloper community?
+### The BEST Developer community?
 
-**BEST** may be a strong word, but the **BETTER DEVELOPER** community is certainly the best one I have found. I've already mentioned ZTM, which is fantastic, but it now has many thousand members, which means there is always someone around, as a group the experience level is phenomonal. This is all great, but due to the size of the group it loses that feeling of intamacy and hinders the chance of making strong relationships.
+**BEST** may be a strong word, but the **BETTER DEVELOPER** community is certainly the best one I have found. I've already mentioned ZTM, which is fantastic, but it now has many thousand members, which means there is always someone around, as a group the experience level is phenomenal. This is all great, but due to the size of the group it loses that feeling of intimacy and hinders the chance of making strong relationships.
 
 This is where _Better Developer_ really thrives, the group is small and tight knit, but at the same time very active, full of people super passionate about programming and led by some of the most helpful people I've met, they genuinely care and get great pleasure from helping others in the community.
 

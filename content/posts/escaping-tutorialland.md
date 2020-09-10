@@ -22,7 +22,7 @@ Check out the finished product here - [Todo App](https://shan5742.github.io/Todo
 
 Take a look at the code in the [GitHub Repo](https://github.com/shan5742/Todo)
 
-A few things to note. The styling is very simple, which is intentional. I just wanted something that worked. The list saves to your browser via localstorage and is good until you clear your Cache. In the future when I have a fully fledged portfolio I plan to make it look a little nice, but for now it is fine.
+A few things to note. The styling is very simple, which is intentional. I just wanted something that worked. The list saves to your browser via local storage and is good until you clear your Cache. In the future when I have a fully fledged portfolio I plan to make it look a little nice, but for now it is fine.
 
 ### How You Can Get Started
 

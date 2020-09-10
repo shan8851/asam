@@ -28,7 +28,7 @@ Companies also use these types of descriptions to **weed out people who don't th
 
 ## When to Start Applying
 
-This is tough to answer, as I said, we will likely never feel ready, so waiting until then is out. Should you wait a certain amount of time? 3 months,6 months, 12 months even? Time is probably not the best guage as we all learn at a different pace and someone studying 40 hours per week for 3 months is completely different than someone studying 10 hours per week for the same three months.
+This is tough to answer, as I said, we will likely never feel ready, so waiting until then is out. Should you wait a certain amount of time? 3 months,6 months, 12 months even? Time is probably not the best gauge as we all learn at a different pace and someone studying 40 hours per week for 3 months is completely different than someone studying 10 hours per week for the same three months.
 
 If not time then what? Well, I would just say when you start to think you are close you should be applying, it took me being referred for a position before I realised that I should be applying. If someone is out there, ready to put their name on the line and suggest me for a job then I should have been looking and applying anyway.
 

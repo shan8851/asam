@@ -23,7 +23,7 @@ I think my calendar was always my only essential app, which is why the rest fail
 - **Main** - This is for all my appointments, both work and personal.
 - **Health & Fitness** - Where I schedule my workouts, meditation and anything else that falls under the health and fitness category.
 - **Todo** - My own version of a Todo list right in the calendar.
-- **History** - This is where I put everything that is complete, it is hidden by default on my main view, which declutters the calendar massively, but means we can always go back and see what has been done.
+- **History** - This is where I put everything that is complete, it is hidden by default on my main view, which de-clutters the calendar massively, but means we can always go back and see what has been done.
 
 Super simple, but it feels great, pretty much my whole day from waking up at 6.30am until bed time at 11.30pm is planned out and documented. I usually have my todo's in the morning, but I don't have notifications or anything like that on them, so they can serve as a regular todo list as best as possible. Then I set a reminder at a few points throughout the day to check them and see what I can tick off.
 

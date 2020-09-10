@@ -44,9 +44,9 @@ Right now I’m very early in my journey, I have a solid understanding of HTML, 
 
 I’m comfortable with version control, using the command line and now have a solid foundation. This has taken me a few months, could have perhaps achieved this a lot quicker, but I haven’t rushed anything and I’m confident in my ability in the basics.
 
-In the beginning these roadmaps can seem very daunting, there is so much to learn and everything seems so difficult, but you don’t need everything to get a start in this industry. In fact that is the wrong way to do things. Your plan should be to pick up a solid foundation, get employed and learn the rest while you’re on the job working with other more experienced developers.
+In the beginning these road maps can seem very daunting, there is so much to learn and everything seems so difficult, but you don’t need everything to get a start in this industry. In fact that is the wrong way to do things. Your plan should be to pick up a solid foundation, get employed and learn the rest while you’re on the job working with other more experienced developers.
 
-I myself have recently landed some freelance work for a webdev agency in my area. It’s pretty simple stuff, which instils confidence and means that I can get through projects fairly quickly, which still leaves a lot of time for further learning. However, having this on my CV will be great when it comes time to apply for full time positions further down the line.
+I myself have recently landed some freelance work for a web dev agency in my area. It’s pretty simple stuff, which instils confidence and means that I can get through projects fairly quickly, which still leaves a lot of time for further learning. However, having this on my CV will be great when it comes time to apply for full time positions further down the line.
 
 So, if you are on the fence about development then just get started, even if you were never to have a career in it, learning some basic computer science principles and basic programming will do nobody no harm, in fact, I would argue the opposite!
 

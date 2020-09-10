@@ -13,7 +13,7 @@ Any reader of this blog will have noticed me banging on about mentors a lot. I h
 
 ### Shifting Thoughts
 
-Initially my thoughts on mentors were that they needed to be elite in their field, but after giving it more thought that is simply false and almost inefficient. Let's say someone who has zero experience in the dev world. They will absolutely learn a lot from some rockstar dev, but a lot of that dev's talent, skills and experience will not be able to be learned from someone so new, it just wouldn't be the right time.
+Initially my thoughts on mentors were that they needed to be elite in their field, but after giving it more thought that is simply false and almost inefficient. Let's say someone who has zero experience in the dev world. They will absolutely learn a lot from some rockstar dev, but a lot of that devs talent, skills and experience will not be able to be learned from someone so new, it just wouldn't be the right time.
 
 ### What's my point?
 

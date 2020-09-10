@@ -64,7 +64,7 @@ For the first time ever I feel really good and positive, I hope to grab some ima
 
 ## Bonus Points
 
-The above is what I am mostly focused on for this year. Bettering myself physically and mentally through diet, exercise and meditation. Expanding my knowledge, way of thinking and decision making through reading. No doubt as the year goes on other goals will pop up, but they will liekly all be focussed around this core.
+The above is what I am mostly focused on for this year. Bettering myself physically and mentally through diet, exercise and meditation. Expanding my knowledge, way of thinking and decision making through reading. No doubt as the year goes on other goals will pop up, but they will likely all be focussed around this core.
 
 Everything so far has been on a personal level. I do also want to achieve some specific things work wise. Overall I just want to be a better developer at the end of the year than I am now, which should happen just through work, but I also want to push myself outside of work, look at things that I don't deal with day to day in order to stay current and well rounded.
 

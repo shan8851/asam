@@ -18,7 +18,7 @@ It has actually been very refreshing to get out of javascript land, which was so
 
 All of this stuff is completely new, so it was tough, it reminded me of my early pains with JavaScript, but I have welcomed that pain and I am really enjoying developing my skills.
 
-## A pleasent surprise
+## A pleasant surprise
 
 Another part of automation, and operations in general is helping the user, I guess I knew this intuitively, but at the same time often overlooked it. Instruction, documentation and as I said helping out your users is of massive importance in operations.
 
