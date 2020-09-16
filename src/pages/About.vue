@@ -16,7 +16,7 @@
       </p>
       <p>
         Outside of work I am interested in learning more about the operations
-        side of the industry, I have a great friend helping mw with the Docker,
+        side of the industry, I have a great friend helping me with the Docker,
         AWS, K8s and more as well as starting to get more and more experience
         with NodeJS in a bid to become a more well rounded engineer.
       </p>
@@ -32,7 +32,7 @@
       </p>
       <h2>Writing</h2>
       <p>
-        Not that you would know it giving the state of my
+        Not that you would know it given the state of my
         <g-link to="/blog">blog</g-link>, but I had a small stint writing for a
         living. I have always enjoyed it and kept a blog for the past couple of
         years essentially journaling my journey into web development. It is not
