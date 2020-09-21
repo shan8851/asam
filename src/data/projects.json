@@ -3,7 +3,7 @@
     "id": 0,
     "title": "Task Manager - Backend",
     "description": "This is complete backend solution for a task manager app built with node and express, using MongoDB for the database.",
-    "tech": ["Node", "Express", "AP"],
+    "tech": ["Node", "Express", "API"],
     "repo": "https://github.com/shan5742/node-task-manager",
     "demo": "https://github.com/shan5742/node-task-manager"
   },
