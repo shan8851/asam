@@ -1,6 +1,14 @@
 [
   {
     "id": 0,
+    "title": "Task Manager - Backend",
+    "description": "This is complete backend solution for a task manager app built with node and express, using MongoDB for the database.",
+    "tech": ["Node", "Express", "AP"],
+    "repo": "https://github.com/shan5742/node-task-manager",
+    "demo": "https://github.com/shan5742/node-task-manager"
+  },
+  {
+    "id": 1,
     "title": "This website!",
     "description": "My first time working with Vue, built with Gridsome",
     "tech": ["Vue", "Gridsome", "Netlify"],
@@ -8,7 +16,7 @@
     "demo": "https://asamshan.dev/"
   },
   {
-    "id": 1,
+    "id": 2,
     "title": "NodeJS Weather App",
     "description": "Express server to get weather forecast based on location, deployed using Heroku",
     "tech": ["node", "heroku", "express"],
@@ -16,7 +24,7 @@
     "demo": "https://shan-express-weather-app.herokuapp.com/"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "Bookmarks",
     "description": "Simple React application for keeping track of bookmarks. Authentication is provided by firebase. App also uses firestore to store and modify data. Routing is handled by Reach Router",
     "tech": ["Gatsby", "React", "express"],
@@ -24,7 +32,7 @@
     "demo": "https://bookmarks.asamshan.dev"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "Nodes App",
     "description": "Basic nodejs app for taking notes. Using Yargs for our command line arguments and chalk for displaying useful information to the user.",
     "tech": ["Node", "CLI", "Yargs"],
@@ -32,7 +40,7 @@
     "demo": "https://github.com/shan5742/nodes-app"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "RPSLS",
     "description": "Rock Paper Scissors game built with vanilla JS, but modified to include Lizard and Spock to make the game more complex and fun..",
     "tech": ["JS", "CSS"],
