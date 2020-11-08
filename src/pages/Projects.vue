@@ -26,7 +26,7 @@
 </template>
 
 <script>
-import data from "../data/projects.json";
+import data from "../data/projects.js";
 export default {
   metaInfo: {
     title: "Projects Page",
